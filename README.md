@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Kemi-Stry/Kemi-Stry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ I'm interesting in:
+- Modern web applications
+- Game development using Raylib and SDL
+- Media creation with Unreal Engine
+- Usage of WebAssembly
+- Computer graphics
 
-Here are some ideas to get you started:
+### 🌱 I’m currently learning:
+- Deno Runtime
+- Modern C and C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech-Stack:
+- Languages: TypeScript, C++
+- Runtimes: NodeJS, Deno
+- Libraries: React, 
+- Dev Tools: Zed, Git, Vite, MSYS2
+
+### 📌 In future:
+- Learn ImGUI library
+- Learn C# and .NET
