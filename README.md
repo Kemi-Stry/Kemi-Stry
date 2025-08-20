@@ -13,10 +13,9 @@
 
 ### 🛠️ Tech-Stack:
 - Languages: TypeScript, C++
-- Runtimes: NodeJS, Deno
-- Libraries: React, 
+- Runtimes: NodeJS, Deno 
 - Dev Tools: Zed, Git, Vite, MSYS2
 
 ### 📌 In future:
 - Learn ImGUI library
-- Learn C# and .NET
+- Learn .NET
