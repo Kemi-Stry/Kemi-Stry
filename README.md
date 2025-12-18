@@ -11,10 +11,10 @@
 - Deno Runtime
 - Modern C and C++
 
-### 🛠️ Tech-Stack:
+### 🛠️ My main Tech-Stack:
 - Languages: TypeScript, C++
 - Runtimes: NodeJS, Deno 
-- Dev Tools: Zed, Git, Vite, MSYS2
+- Dev Tools: Zed, Git, Vite, Clang
 
 ### 📌 In future:
 - Learn ImGUI library
